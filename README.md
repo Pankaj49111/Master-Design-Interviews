@@ -69,7 +69,8 @@ For a complete list with descriptions, see [External Resources README](External%
 
 Suggested attribution for repository-owned items (replace YEAR and NAME):
 
-> Title — YEAR, NAME; licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+> Template: Title — YEAR, NAME; licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+> Example: Master Design Interviews — 2025, Pankaj Kumar(Pankaj49111); licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 If you plan to add code to this workspace and want to make it available under a permissive code license, add a separate `LICENSE` file (for example, the MIT license) and reference it here.
 
