@@ -8,16 +8,9 @@ This folder contains short notes and quick-reference materials useful for system
 
 ## Files
 - [Cheat Sheet (PDF)](Cheat_Sheet.pdf)
-  - Quick reference with useful commands, patterns, and reminders for interviews and practical tasks.
-
 - [Git — Notes](Git.md)
-  - Tips, commands, and workflows for using Git effectively during interviews and projects.
-
 - [Microservices — Notes](Microservices.md)
-  - High-level and practical notes on microservice architecture, communication patterns, and operational concerns.
-
 - [RESTful Architecture — Notes](RESTfulArchitecture.md)
-  - Principles and best practices for designing RESTful APIs and resources.
 
 ## Suggested quick-read order
 1. `Cheat_Sheet.pdf` — fast refresh before mock interviews.
@@ -29,10 +22,11 @@ This folder contains short notes and quick-reference materials useful for system
 - Click any link in the README from your editor's Markdown preview to open the file directly.
 - Keep these notes lightweight — prefer links to full books in `External Resources` for deeper reading.
 
-## Contribution
-- Add or update short notes here. Keep them concise and focused.
-- If you add a new file, include a one-line description in this README.
+## License & Copyright
+- Notes and README text here are repository-authored and licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0. See `../LICENSE_CC_BY-NC-ND_4.0.txt` for the full license.
+- The `Cheat_Sheet.pdf` or any third-party material placed here should have their original license respected; include attribution and permission where required.
 
 ---
-Last updated: 2025-12-29
+Last updated: 2025-12-30
 
+Repository copyright: 2025 Pankaj Kumar(Pankaj49111)

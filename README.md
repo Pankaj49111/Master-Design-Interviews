@@ -63,5 +63,17 @@ For a complete list with descriptions, see [External Resources README](External%
 ## License & Copyright
 - This workspace may include third-party copyrighted materials (books, PDFs). Keep these files for personal study and comply with each resource's license for redistribution.
 
+- Repository-owned notes, guides, and READMEs are licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. See `LICENSE_CC_BY-NC-ND_4.0.txt` at the repository root for the full text.
+
+- Third-party books and PDFs in `External Resources/` are likely copyrighted by their original authors or publishers and are included here for personal study only. They are NOT automatically covered by the repository license—do not redistribute third‑party copyrighted material without permission.
+
+Suggested attribution for repository-owned items (replace YEAR and NAME):
+
+> Title — YEAR, NAME; licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+If you plan to add code to this workspace and want to make it available under a permissive code license, add a separate `LICENSE` file (for example, the MIT license) and reference it here.
+
 ---
-Last updated: 2025-12-29
+Last updated: 2025-12-30
+
+Repository copyright: 2025 Pankaj Kumar(Pankaj49111)
